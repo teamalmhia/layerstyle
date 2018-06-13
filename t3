@@ -1,0 +1,411 @@
+//if(location.protocol!='https:'){location.protocol='https:';}
+
+$("img[src='prv1.png?2']").attr("src","https://cf1.s3.souqcdn.com/item/2017/01/24/17/52/15/27/item_XL_17521527_23879918.jpg");
+
+$(` <center><div style=" width: 100%;height: auto!important; "  id="as" margin: 2px;" class="fa fa-heartbeat btn btn-danger" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp;● · мυsɪc · ●&nbsp;</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>اغاني</p><audio controls loop="" play=""><source src="https://iraqiachats.com/iqr30.mp3"></audio></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
+
+$(`<img src ="https://ashq-bdwy.com/ashq-bdwy.gif" etclass="fr" style="width:100%;margin-top: 1px;"><div id="asim10"><center><a id="asim33" href="#" target="_blank" type="button" style="border: 9px double #eb0c3c;
+
+border-radius: 98px 0;
+
+background-image: -webkit-gradient(linear, center top, center bottom, from(#d1ede9), to(#00bfa2), color-stop(3%, #c1e9e3), color-stop(12%, #b1e4dc), color-stop(90%, #59d2bf));
+
+background-image: -webkit-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: -moz-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: -o-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: -ms-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: linear-gradient(to bottom, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+-webkit-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+-moz-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96); width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="asim33" href="#" target="_blank" type="button" style="border: 9px double #eb0c3c;
+
+border-radius: 98px 0;
+
+background-image: -webkit-gradient(linear, center top, center bottom, from(#f2ab2b), to(#e17b19));
+
+background-image: -webkit-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: -moz-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: -o-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: -ms-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: linear-gradient(to bottom, #f2ab2b, #e17b19);
+
+-webkit-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+-moz-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96); width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a><a id="asim33" href="#" target="_blank" type="button" style="border: 9px double #eb0c3c;
+
+border-radius: 98px 0; width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اختصارات</a><a id="asim33" href="#" target="_blank" type="button" style="border: 9px double #eb0c3c;
+
+border-radius: 98px 0;
+
+background-image: -webkit-gradient(linear, center top, center bottom, from(#d1ede9), to(#00bfa2), color-stop(3%, #c1e9e3), color-stop(12%, #b1e4dc), color-stop(90%, #59d2bf));
+
+background-image: -webkit-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: -moz-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: -o-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: -ms-linear-gradient(top, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+background-image: linear-gradient(to bottom, #d1ede9, #c1e9e3 3%, #b1e4dc 12%, #59d2bf 90%, #00bfa2);
+
+-webkit-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+-moz-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96); width: 22%; margin: 2px;" class="btn btn-primary btn-sm">زخرفة</a><a id="asim33" href="#" target="_blank" type="button" style="border: 9px double #eb0c3c;
+
+border-radius: 98px 0;
+
+background-image: -webkit-gradient(linear, center top, center bottom, from(#f2ab2b), to(#e17b19));
+
+background-image: -webkit-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: -moz-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: -o-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: -ms-linear-gradient(top, #f2ab2b, #e17b19);
+
+background-image: linear-gradient(to bottom, #f2ab2b, #e17b19);
+
+-webkit-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+-moz-box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96);
+
+box-shadow: 0 8px 5px 6px rgba(41,30,247,0.96); width: 22%; margin: 2px;" class="btn btn-primary btn-sm">القوانين<a id="" target="_blank" type="button" style=" width: 6%; margin: 2px;" class=""><img src ="  " etclass="fr" style="width: 0px;margin-top: -147px;position: fixed;margin-left: -87px;"><img src ="https://w99w.net/sico/z1cctpk1r310.gif" etclass="fr" style="width: 37px;margin-top: -147px;position: fixed;margin-left: -258px;"><center>`).insertBefore('.nav-tabs'),$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img style="width: 22px;" src="https://alodyni.000webhostapp.com/5.gif" width="100%">`),$('.nav-tabs').addClass('fl').css('width','100%'),$('.tc span[class="fa fl"]').addClass('fa-check'),$(`<link rel="stylesheet" href="https://cdn.rawgit.com/teamalmhia/type/fd0fac7e/Ashq-bdwy.css">`).insertBefore('body'),
+
+$('.fa.fa-user-plus').html(`تسجيل`);(document.getElementById("tbox").placeholder = "دردش معنا ");
+
+$(`<a href="Shortcut.html" target="_blank" style=" font-family: 'El Messiri', sans-serif;width:107px;color: #E8415D;text-decoration:none; margin-right: 5px;margin-left: 2px;text-align: center;float: right;border-radius: 5px;border-color: #F2F2F2;padding: 3px;" class="border" ><i class="fa fa-reddit-alien"></i>&nbsp;اختصارات</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');var nopm = !0;var nonot = !0;
+
+ <layer name="a0" left=10 top=10 visibility=show bgcolor="#ffffff" clip="0,0,1,1"></layer>
+<layer name="a1" left=10 top=10 visibility=show bgcolor="#fff000" clip="0,0,1,1"></layer>
+<layer name="a2" left=10 top=10 visibility=show bgcolor="#ffa000" clip="0,0,1,1"></layer>
+<layer name="a3" left=10 top=10 visibility=show bgcolor="#ff00ff" clip="0,0,1,1"></layer>
+<layer name="a4" left=10 top=10 visibility=show bgcolor="#00ff00" clip="0,0,1,1"></layer>
+<layer name="a5" left=10 top=10 visibility=show bgcolor="#ff00ff" clip="0,0,1,1"></layer>
+<layer name="a6" left=10 top=10 visibility=show bgcolor="#ff0000" clip="0,0,1,1"></layer>
+<layer name="a7" left=10 top=10 visibility=show bgcolor="#ffffff" clip="0,0,1,1"></layer>
+<layer name="a8" left=10 top=10 visibility=show bgcolor="#fff000" clip="0,0,1,1"></layer>
+<layer name="a9" left=10 top=10 visibility=show bgcolor="#ffa000" clip="0,0,1,1"></layer>
+<layer name="a10" left=10 top=10 visibility=show bgcolor="#ff00ff" clip="0,0,1,1"></layer>
+<layer name="a11" left=10 top=10 visibility=show bgcolor="#00ff00" clip="0,0,2,2"></layer>
+<layer name="a12" left=10 top=10 visibility=show bgcolor="#0000ff" clip="0,0,2,2"></layer>
+<layer name="a13" left=10 top=10 visibility=show bgcolor="#ff0000" clip="0,0,2,2"></layer>
+
+<script language="JavaScript">
+
+/*
+Visit our site at http://www.elahmad.com/ for more code
+ */
+
+if (document.all)
+with(document){
+write('<div id="starsDiv" style="position:absolute;top:0px;left:0px">')
+write('<div style="position:relative;width:2px;height:2px;background:#ffffff;font-size:2px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#fff000;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#ffa000;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#ff00ff;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#00ff00;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#0000ff;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#FF0000;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#ffffff;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#fff000;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#ffa000;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#ff00ff;font-size:1px"></div>')
+write('<div style="position:relative;width:2px;height:2px;background:#ff00ff;font-size:2px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#0000ff;font-size:1px"></div>')
+write('<div style="position:relative;width:1px;height:1px;background:#FF0000;font-size:1px"></div>')
+write('</div>')
+}
+
+
+var Clrs=new Array(9)
+Clrs[0]='ff0000';
+Clrs[1]='00ff00';
+Clrs[2]='000aff';
+Clrs[3]='ff00ff';
+Clrs[4]='ffa500';
+Clrs[5]='ffff00';
+Clrs[6]='00ff00';
+Clrs[7]='ffffff';
+Clrs[8]='fffff0';
+var sClrs=new Array(5)
+sClrs[0]='ffa500';
+sClrs[1]='55ff66';
+sClrs[2]='AC9DFC';
+sClrs[3]='fff000';
+sClrs[4]='fffff0';
+var yBase;
+var xBase;
+var step;
+var currStep = 0;
+var Xpos = 1;
+var Ypos = 1;
+var initialStarColor='ffa000';
+var Mtop=250;
+var Mleft=250;
+
+function Fireworks() {
+if (document.all)
+{
+yBase = window.document.body.offsetHeight/3;
+xBase = window.document.body.offsetWidth/8;
+}
+else if (document.layers)
+{
+yBase = window.innerHeight/3;
+xBase = window.innerWidth/8;
+}
+if (document.all)
+{
+step=5;
+for ( i = 0 ; i < starsDiv.all.length ; i++ )
+{
+for (ai=0; ai < Clrs.length; ai++)
+{
+var c=Math.round(Math.random()*[ai]);
+}
+if (currStep < 90)
+starsDiv.all[i].style.background=initialStarColor;
+if (currStep > 90)
+starsDiv.all[i].style.background=Clrs[c];
+starsDiv.all[i].style.top = Mtop + yBase*Math.sin((currStep+i*5)/3)*Math.sin(550+currStep/100)
+starsDiv.all[i].style.left = Mleft + yBase*Math.cos((currStep+i*5)/3)*Math.sin(550+currStep/100)
+}
+}
+else if (document.layers)
+{
+step = 5;
+for ( j = 0 ; j < 14 ; j++ ) //number of NS layers!
+{
+var templayer="a"+j
+for (ai=0; ai < Clrs.length; ai++)
+{
+var c=Math.round(Math.random()*[ai]);
+}
+if (currStep < 90)
+document.layers[templayer].bgColor=initialStarColor;
+if (currStep > 90)
+document.layers[templayer].bgColor=Clrs[c];
+document.layers[templayer].top = Mtop + yBase*Math.sin((currStep+j*5)/3)*Math.sin(550+currStep/100)
+document.layers[templayer].left = Mleft + yBase*Math.cos((currStep+j*5)/3)*Math.sin(550+currStep/100)
+}
+}
+currStep+= step;
+//window.status=currStep;
+T=setTimeout("Fireworks()",5);
+if (currStep==220)
+{
+currStep=-10;
+for (n=0; n < sClrs.length; n++)
+{
+var k=Math.round(Math.random()*n);
+}
+initialStarColor=sClrs[k];
+if (document.all)
+{
+Dtop=window.document.body.clientHeight-250;
+Dleft=xBase*3.5;
+Mtop=Math.round(Math.random()*Dtop);
+Mleft=Math.round(Math.random()*Dleft);
+document.all.starsDiv.style.top=Mtop+document.body.scrollTop;
+document.all.starsDiv.style.left=Mleft+document.body.scrollLeft;
+}
+else if (document.layers)
+{
+Dleft=window.innerWidth-100;
+Dtop=window.innerHeight-100;
+Mtop=Math.round(Math.random()*Dtop+window.pageYOffset);
+Mleft=Math.round(Math.random()*Dleft+window.pageXOffset);
+document.layers[templayer].top=Mtop;
+document.layers[templayer].left=Mleft;
+}
+if ((Mtop < 20) || (Mleft < 20))
+{
+Mtop+=90;
+Mleft+=90;
+} 
+}
+}
+if (document.all||document.layers)
+Fireworks();
+
+</script>
+
+$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font class="a"> الـــملكــه</font> border: 9px double #eb0c3c;
+
+border-radius: 98px 0;● · افضل سوبر  · ●<font class="a"> قريبــآ </font> ● · افضل زائر  · ●<font class="a"> قريبــآ </font> ● · افضل زائرة  · ●<font class="a"> قريبــآ </font> ● · مبدع الحائط · ●<font class="a"> قريبــآ </font> ● · مبدعة الحائط · ● <font class="a"> قريبــآ </font> ● · افضل تواجد · ●<font class="a"> قريبـآ </font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
+
+</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
+
+ 
+
+/*
+
+$("img[src='prv1.png?2']").attr("src","https://w99w.net/sico/z1cctpk1r310.gif");
+
+$('.nav-tabs').addClass('fl').css('width','100%');
+
+$(`<div id="alodyni107"></div>
+
+ 
+
+<img class="fl" id="alodyni4"src=""width="100%" ></img><div>
+
+<div style=""><div width="150px" id="alodyni8"></div></div>
+
+ 
+
+ 
+
+<marquee direction="right" width="54%" id="alodyni5" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" style="background: none;color: white;margin-left: 8.5%;">اللهم اهله علينا بالامن و الايمان،و السلامة و الاسلام، و العافية المجللة و الرزق الواسع، و دفع الاسقام، اللهم ارزقنا صيامه و قيامه و تلاوة القرآن فيه، و سلمه لنا، و تسلمه منا و سلمنا فيه</marquee></div>
+
+<a href="rules.html" style="width:90px;margin:2px;" class="fl mini  fa   fa-phone btn btn-warning"> اتصل بنا</a>
+
+<a href="" style="width:85px;margin:2px;" class="fl mini  fa  fa-heartbeat btn btn-danger"> التطبيـق</a>
+
+<a href="rules.html" style="width:90px;margin:2px;" class="fl mini  fa fa-graduation-cap
+
+btn btn-info"> القوانين</a>
+
+<a href="sub.html" style="width:87px;margin:2px;" class="fl mini  fa   fa-star
+
+ btn btn-success"> للإشتراك</a></div><`).insertBefore('.nav-tabs');
+
+//$(`  <a id="alodyni6" href="#" target="_blank" type="button"  class="al1 btn btn-primary btn-sm">القوانين</a><div style=""><marquee direction="right" width="100%" id="alodyni8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5"> ●・🌹🌹 اهلا وسهلا بكم في شات 🌹🌹・● <font color="#0000ff" class="alodyni11"> ●・📱 عالم الرومانسية للجوال 🖥 ・● </font> ●・افضل سوبر لهذا الاسبوع・● <font class="alodyni11" color="#800000"> ●・⭐ همسات المطر ⭐・●</font>  ●・افضل زائر لهذا الاسبوع・● <font class="alodyni11" color="#ff9900">●・👦  اادمنت حبك واحرموني تعاطيك👦・●</font> ●・افضل زائرة لهذا الاسبوع・● <font class="alodyni11" color="#ff00ff">●・👧 ديما 👧・●</font>  ●・مبدع الحائط لهذا الاسبوع・● <font class="alodyni11" color="#5CAD9A">● •  حمودي  📝・●</font>  ●・مبدعه الحائط لهذا الاسبوع・● <font class="alodyni11" color="#800000"> ●・📝 ذات ِ📝・●</font> ●・ 🌷🌻 مع تمنياتنا للجميع باطيب الاوقات ・●</marquee></div>`).insertAfter('div#l3');
+
+$(`
+
+`).insertAfter('div#l3');
+
+ 
+
+ 
+
+$(function() {
+
+            
+
+                $("#alodyni8").typed({
+
+                  strings: [
+
+"رمضان كريم",
+
+ "وكل عام وانتم بالف خير" ,
+
+ "اوله رحمة",
+
+ "واوسطه مغفرة",
+
+ "واخرة عتقً من النار ",
+
+ ], 
+
+               
+
+                  loop: true,
+
+                  startDelay: 1e3,
+
+                  backDelay: 2e3
+
+                });
+
+              });
+
+$(`
+
+<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
+
+<link rel="stylesheet" type="text/css" href="https://alodyni.000webhostapp.com/ashq-bdwy77.php">
+
+ 
+
+<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/droid-arabic-kufi" type="text/css"/>
+
+`).insertBefore('head title');
+
+$('ul.nav.nav-tabs.fl').appendTo('#alodyni107');
+
+ 
+
+(document.getElementById("tbox").placeholder = "اكتب رسالتك في شـات الملكة ");
+
+$('<button style=" margin-top:2px;margin-left:2px;" class="fa fa-phone call fl btn btn-success">&nbsp;&nbsp;&nbsp;&nbsp;</button>').insertAfter("button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary");
+
+ 
+
+ 
+
+ // $("nav  nav-tabs fl li").removeClass(".active");
+
+ 
+
+    
+
+$(`<iframe width="200" height="100" src="https://www.youtube.com/embed/MFMFVupioMY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`).insertBefore('label.label.label-primary.mini.fl');
+
+ 
+
+$(`<div class="fr borderg" style="margin-top: -68px;padding:2px;background-color:white;margin-right:4px;">فوازير رمضان: <a href="#">قريباً</a></div>`).insertAfter('label.label.label-primary.mini.fl');
+
+ 
+
+  
+
+$(".checkbox label").html(`<input id="stealth" type="checkbox" value=""><img style="width: 22px;" src="https://alodyni.000webhostapp.com/imgw/43-32.png" width="100%">`);
+
+ 
+
+/* var el = $(".el");
+
+ 
+
+ 
+
+ <div class="el">سبحان الله</div>
+
+<div class="el">الحمد لله</div>
+
+<div class="el">لا اله الا الله</div> 
+
+<div class="el">الله اكبر </div> 
+
+ 
+
+TweenMax.set(el,{autoAlpha:0,left:'0%',xPercent:"-50%"})
+
+var tl = new TimelineMax({repeat:-1});
+
+ 
+
+for(var i=0;i<el.length;i++){
+
+  E = el[i];
+
+  tl.to(E,0.5,{autoAlpha:1,left:'30%',ease:Power2.easeIn})
+
+   .to(E,3.5,{left:'70%',ease:Power0.easeNone})
+
+   .to(E,0.5,{left:'100%',autoAlpha:0,ease:Power2.easeOut})
+
+};
+
+*/
+
